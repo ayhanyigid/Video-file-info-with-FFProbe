@@ -25,7 +25,7 @@ $result = Video_Info::create($file)
 echo '<pre>'.print_r($result,1).'</pre>';   
 
 
-If you need to help for this so you can send a email to me.
+If you need to help for this so you can send an email to me.
 
 Bu class ffprobe ile beraber kullanılmaktadir. This class is working with ffprobe.
 
